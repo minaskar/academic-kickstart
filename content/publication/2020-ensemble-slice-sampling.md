@@ -16,6 +16,7 @@ url_pdf = "https://arxiv.org/pdf/2002.06212.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+featured = true
 
 #[[url_custom]]
 #name = "View Journal Article"
