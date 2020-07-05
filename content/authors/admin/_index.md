@@ -15,7 +15,7 @@ role: Cosmology PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: ""
+  url: "https://www.ed.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cosmology, Astrophysics and Machine Learning.
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:minas.karamanis@ed.ac.uk'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MinasKaramanis
