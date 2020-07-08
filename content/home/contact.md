@@ -17,7 +17,7 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
-[design.background]
+#[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
