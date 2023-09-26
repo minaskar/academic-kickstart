@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:minas.karamanis@ed.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:minaskar@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MinasKaramanis
